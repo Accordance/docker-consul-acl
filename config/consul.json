@@ -1,0 +1,12 @@
+{
+  "data_dir": "/data",
+  "ui_dir": "/ui",
+  "client_addr": "0.0.0.0",
+  "ports": {
+    "dns": 53
+  },
+  "acl_datacenter": "dev",
+  "acl_master_token": "secret",
+  "acl_default_policy": "deny",
+  "recursor": "8.8.8.8"
+}
